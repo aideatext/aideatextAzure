@@ -1,0 +1,5 @@
+streamlit
+pymongo
+azure-cosmos
+numpy
+scikit-learn
